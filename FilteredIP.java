@@ -18,7 +18,7 @@ import java.util.regex.Pattern;
  
 public class test6 {
     public static final String FILE_IP = "C:\\Users\\minat\\Desktop\\amazon.txt";
-    public static final String FILE_BIG_IP = "C:\\Users\\minat\\Desktop\\all.txt";
+    public static final String FILE_BIG_IP = "C:\\Users\\minat\\Desktop\\all1.txt";
     public static final String REGEX_FIND_IPV4 = "((2[0-4]\\d|25[0-5]|1\\d\\d|0\\d\\d|0\\d|\\d\\d|\\d)[\\.]){3}(2[0-4]\\d|25[0-5]|1\\d\\d|0\\d\\d|0\\d|\\d\\d|\\d)\\/\\d*";
 
     // Input file text
