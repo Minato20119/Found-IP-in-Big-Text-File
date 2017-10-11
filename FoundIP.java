@@ -16,7 +16,7 @@ import java.util.ArrayList;
  
 public class FoundIP {
     public static final String FILE_IP = "C:\\Users\\minat\\Desktop\\ip.txt";
-    public static final String FILE_BIG_IP = "C:\\Users\\minat\\Desktop\\all.txt";
+    public static final String FILE_BIG_IP = "C:\\Users\\minat\\Desktop\\all1.txt";
     public static ArrayList<String> arrayList = new ArrayList();
 
     // Input file text
